@@ -352,3 +352,7 @@ desktop.ini
 
 # Read the docs local builds
 docs/_[Bb]uild
+
+# Local support files
+src/dll/Supporting
+src/gui/Supporting
