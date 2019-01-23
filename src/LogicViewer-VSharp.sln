@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogicViewer-GUI", "gui\Logi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicViewer-VSharp", "dll\LogicViewer-VSharp.csproj", "{7BCC1BDF-6EFC-4756-A0D6-A2EF904A1235}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Supporting", "Supporting", "{E50A1543-D3BC-4090-B258-4776641E8ED3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64

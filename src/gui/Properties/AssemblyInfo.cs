@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("LogicViewer-VSharp GUI")]
-[assembly: AssemblyCopyright("Copyright© (C) 2018 S.Gray, (aka PiezPiedPy)")]
+[assembly: AssemblyCopyright("Copyright© (C) 2018-2019 S.Gray (aka PiezPiedPy)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

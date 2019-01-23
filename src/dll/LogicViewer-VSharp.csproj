@@ -6,6 +6,13 @@
     <LangVersion>latest</LangVersion>
     <ApplicationIcon>Resources\Icons\MrSmith.ico</ApplicationIcon>
     <Platforms>AnyCPU;x64</Platforms>
+    <Version>0.1.0.0</Version>
+    <Company>NA</Company>
+    <Authors>PiezPiedPy</Authors>
+    <Description>.NET Library Logic Analyzer for Digital Oscilloscopes</Description>
+    <Copyright>Copyright© (C) 2018-2019 S.Gray (aka PiezPiedPy)</Copyright>
+    <RepositoryUrl>https://github.com/PiezPiedPy/LogicViewer-VSharp</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
